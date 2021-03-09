@@ -11,8 +11,14 @@ Você pode conferir todas as artes já criadas pela comunidade de **IoT Streamer
 | ![img](gifs/petpet-bits-1.gif) | ![img](gifs/petpet-bits-100.gif) | ![img](gifs/petpet-bits-1000.gif) | ![img](gifs/petpet-bits-5000.gif) | ![img](gifs/petpet-bits-10000.gif) |
 
 
-## PixelArts Emojis ##
-### Dornelles ###
+## PixelArts ##
+### Twitch Emojis ###
+#### DornellesTV ####
 | dornel1C |
 | -------- |
 | ![dornel1C](emojis/dornel1C.png) |
+
+### Without Context ###
+#### Furrie Cow ####
+| ![cow](extras/cow-furry.png) | ![cow](extras/cow-furry-big.png) |
+| ---------------------------- | -------------------------------- |
